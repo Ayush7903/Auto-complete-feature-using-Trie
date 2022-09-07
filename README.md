@@ -1,1 +1,1 @@
-# Auto-complete-feature-using-Trie
+Autocomplete is a feature that makes it faster to complete searches that you start to type. It generates predictions that help people save time by allowing them to quickly complete the search they already intended to do.Google search also uses the same feature using TRIE data structure.
